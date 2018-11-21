@@ -82,6 +82,7 @@ Our tests are located in the `test/` directory, containing a PHPUnit config file
     * 🔒 `:lock:` when dealing with security
     * ⬆️ `:arrow_up:` when upgrading dependencies
     * ⬇️ `:arrow_down:` when downgrading dependencies
+    * 💪 `:muscle:` for code strengthening
 
 
 ## Pull request
