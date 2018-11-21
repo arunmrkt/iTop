@@ -13,13 +13,15 @@ You are welcome to create pull requests on any of those subjects :
 * 🔒 `:lock:` security
 * 🌐 `:globe_with_meridians:` translation
 
-If you want to implement a new feature, please [create a corresponding ticket](https://sourceforge.net/p/itop/tickets/new/) for review.   
+If you want to implement a **new feature**, please [create a corresponding ticket](https://sourceforge.net/p/itop/tickets/new/) for review.   
 If you ever want to begin implementation, do so on a fork, and add a link to the corresponding branch in the ticket. 
 
 
 ## Branch model
 
-### GitFlow
+TL;DR :
+> **create a fork from iTop main repository,  
+> create a branch based on either release branch if present, or develop otherwise**
 
 We are using the [GitFlow](https://nvie.com/posts/a-successful-git-branching-model/) branch model. That means we have in our repo those 
 main branches :
@@ -43,13 +45,6 @@ And when 2.8 final will be out :
 
 - develop : 2.9 version
 - master : 2.8 version
-
-### Working on a fork
-
-You'll have to :
-
-* create a fork from iTop main repository, 
-* create a branch based on either release branch if present, or develop otherwise
 
 
 ## Coding
