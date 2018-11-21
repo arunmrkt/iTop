@@ -9,9 +9,9 @@ Here are some guidelines that will help us integrate your work !
 
 You are welcome to create pull requests on any of those subjects :
 
-* 🐛 bug fix
-* 🔒 security
-* 🌐 translation
+* 🐛 `:bug:` bug fix
+* 🔒 `:lock:` security
+* 🌐 `:globe_with_meridians:` translation
 
 If you want to implement a new feature, please [create a corresponding ticket](https://sourceforge.net/p/itop/tickets/new/) for review.   
 If you ever want to begin implementation, do so on a fork, and add a link to the corresponding branch in the ticket. 
