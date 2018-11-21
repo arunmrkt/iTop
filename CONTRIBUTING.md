@@ -56,8 +56,7 @@ You'll have to :
 
 ### PHP styleguide
 
-//FIXME the coding standards page is not in the public wiki :(
-Please follow []those guidelines](https://wiki.combodo.com/doku.php?id=latest:customization:coding_standards).
+Please see [our guidelines](https://www.itophub.io/wiki/page?id=latest%3Acustomization%3Acoding_standards).
 
 ### Tests
 
