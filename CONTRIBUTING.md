@@ -70,10 +70,10 @@ Our tests are located in the `test/` directory, containing a PHPUnit config file
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 * Limit the first line to 72 characters or less
-* Start the commit message with an applicable emoji:
+* Please start the commit message with an applicable emoji. For example :
     * 🌐 `:globe_with_meridians:` for translations
     * 🎨 `:art:` when improving the format/structure of the code
-    * 🐎 `:racehorse:` when improving performance
+    * ⚡️ `:zap:` when improving performance
     * 🐛 `:bug:` when fixing a bug
     * 🔥 `:fire:` when removing code or files
     * 💚 `:green_heart:` when fixing the CI build
@@ -81,7 +81,8 @@ Our tests are located in the `test/` directory, containing a PHPUnit config file
     * 🔒 `:lock:` when dealing with security
     * ⬆️ `:arrow_up:` when upgrading dependencies
     * ⬇️ `:arrow_down:` when downgrading dependencies
-    * 💪 `:muscle:` for code strengthening
+    * ♻️ `:recycle:` code refactoring
+  This is following the [Gitmoji guide](https://gitmoji.carloscuesta.me/).
 
 
 ## Pull request
