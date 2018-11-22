@@ -51,7 +51,7 @@ And when 2.8 final will be out :
 
 ### PHP styleguide
 
-Please see [our guidelines](https://www.itophub.io/wiki/page?id=latest%3Acustomization%3Acoding_standards).
+Please follow [our guidelines](https://www.itophub.io/wiki/page?id=latest%3Acustomization%3Acoding_standards).
 
 ### Tests
 
@@ -84,7 +84,7 @@ Our tests are located in the `test/` directory, containing a PHPUnit config file
 When your code is working, please :
 
 * stash as much as possible your commits,
-* rebase your branch on our last repo commit,
+* rebase your branch on our repo last commit,
 * create a pull request.
 
-Detailed procedure is available [in GitHub help pages](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+Detailed procedure to work on fork and create PR is available [in GitHub help pages](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
