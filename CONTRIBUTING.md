@@ -77,6 +77,7 @@ Our tests are located in the `test/` directory, containing a PHPUnit config file
     * ⬆️ `:arrow_up:` when upgrading dependencies
     * ⬇️ `:arrow_down:` when downgrading dependencies
     * ♻️ `:recycle:` code refactoring
+    * 💄 `:lipstick:` Updating the UI and style files.
 
 ## Pull request
 
